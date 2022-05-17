@@ -21,9 +21,8 @@ or
 ### Clone it in your local machine using GIT
 
 To get a local copy up and running follow these simple example steps.
-1. Clone the repo
+Clone the repo
    git clone https://github.com/jahongiry/Robotics-conference.git
-2. Install the files in the .gitignore
 
 ## Author
 
