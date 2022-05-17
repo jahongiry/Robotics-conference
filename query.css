@@ -1,0 +1,255 @@
+@media (min-width: 768px) {
+  html {
+    font-size: 85%;
+  }
+
+  .phone-nav {
+    display: none;
+  }
+
+  .top-nav {
+    display: inline-block;
+    width: 100%;
+    background-color: rgb(62, 62, 62);
+    padding-right: 12rem;
+  }
+
+  .top-nav-container {
+    display: flex;
+    gap: 1.5rem;
+    padding: 0.5rem 1rem;
+    list-style: none;
+    justify-content: flex-end;
+  }
+
+  .top-nav-item {
+    text-decoration: none;
+    color: rgb(250, 250, 250);
+  }
+
+  .header {
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem 0;
+  }
+
+  .main-nav-list {
+    display: flex;
+    gap: 2.5rem;
+    list-style: none;
+  }
+
+  .main-nav-link:link,
+  .main-nav-link:visited {
+    display: inline-block;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.781);
+    font-weight: 500;
+    font-size: 1.2rem;
+    transition: all 0.4s;
+  }
+
+  .main-nav-link:focus-visible {
+    outline: 1px solid #c9cdff;
+  }
+
+  .main-nav-link:hover,
+  .main-nav-link:active {
+    color: #e4cbb6;
+  }
+
+  .campaign {
+    border: 3px solid rgb(239, 71, 45);
+    padding: 0.5rem;
+    margin-top: -0.7rem;
+  }
+
+  .campaign:link,
+  .campaign:visited {
+    color: rgb(243, 156, 142);
+  }
+
+  .header-name {
+    color: rgba(0, 0, 0, 0.698);
+    text-decoration: none;
+    font-family: "Inter", sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 20px;
+  }
+
+  .header-name:focus-visible {
+    outline: 1px solid #c9cdff;
+  }
+
+  .header-name:link,
+  .header-name:visited {
+    transition: all 0.4s;
+  }
+
+  .header-name:hover,
+  .header-name:active {
+    color: #e4cbb6;
+  }
+
+  .description-container {
+    width: 70%;
+  }
+
+  .main-page {
+    padding: 5rem;
+  }
+
+  .main-program {
+    padding: 2rem 5rem 2.5rem 5rem;
+  }
+
+  .main-container {
+    grid-template-columns: repeat(5, 1fr);
+    column-gap: 0.2rem;
+  }
+
+  .sub-container h6 {
+    color: #ec5242;
+    font-family: 'COCOGOOSE', sans-serif;
+    font-size: 1rem;
+    line-height: 2rem;
+    flex-basis: 20px;
+    flex-grow: 0;
+    flex-shrink: 0;
+  }
+
+  .sub-container {
+    flex-direction: column;
+    gap: 0.5rem;
+    justify-content: start;
+  }
+
+  .sub-container p {
+    font-size: 1rem;
+  }
+
+  .sub-container img {
+    width: 4rem;
+    height: 4rem;
+  }
+
+  .join-conference {
+    display: none;
+  }
+
+  .see-whole-program {
+    display: flex;
+    justify-content: center;
+    margin: 3rem 0 2rem 0;
+  }
+
+  .see-whole-program a {
+    color: rgba(255, 255, 255, 0.753);
+    text-align: center;
+    text-decoration: none;
+    padding-bottom: 0.2rem;
+    border-bottom: 1px solid white;
+  }
+
+  .partners-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    justify-items: center;
+    padding: 1rem;
+  }
+
+  .partner-1 h6 {
+    padding-left: 0.5rem;
+    margin-bottom: 2.5rem;
+  }
+
+  .linelast {
+    margin-bottom: 1.5rem;
+  }
+
+  .about-page {
+    padding: 5rem 7rem;
+    text-align: center;
+  }
+
+  .about-page h2 {
+    display: none;
+  }
+
+  .past {
+    margin: 3rem 7rem;
+    text-align: center;
+  }
+
+  .past-container {
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .past-container-1 {
+    padding: 3rem 1.2rem;
+  }
+
+  .past-container-2 {
+    padding: 3rem 1.2rem;
+  }
+
+  .description-container2 {
+    margin: 2rem 5rem;
+  }
+
+  #more {
+    display: none;
+  }
+
+  .speakers-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 4rem 6rem;
+    column-gap: 2rem;
+    row-gap: 3rem;
+  }
+
+  .speakers-container h3 {
+    font-size: 1.5rem;
+    padding-top: 1rem;
+  }
+
+  .speaker-container img {
+    width: 50%;
+    height: 90%;
+  }
+
+  .speaker-container {
+    margin: 0;
+  }
+
+  .speakers-container h6 {
+    font-size: 1rem;
+  }
+
+  .wrapper {
+    height: 50%;
+  }
+}
+
+@media (min-width: 1200px) {
+  html {
+    font-size: 100%;
+  }
+
+  .main-container {
+    gap: 0.5rem;
+    margin: 3rem 10rem;
+  }
+
+  .see-whole-program {
+    margin: 5rem 0;
+  }
+
+  .main-page {
+    padding: 5rem 15rem;
+  }
+}
