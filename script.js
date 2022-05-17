@@ -19,7 +19,8 @@ closeIcon.addEventListener('click', () => {
 
 const speakersContainer = document.querySelector('.speakers-container');
 function generateSpeaker({
-  image, alt, title, type, description}) {
+  image, alt, title, type, description,
+}) {
   return `
   <div class="speaker-container">
     <img src="${image}" alt="${alt}">
@@ -76,7 +77,7 @@ const speakers = [
     type: 'Professor of Robotics at Massachutes Tech',
     description: 'Mustanski studies Robotics production, and published his seminal book in 2016',
   },
-]
+];
 
 const more = document.getElementById('more');
 const less = document.getElementById('less');
@@ -92,10 +93,10 @@ less.addEventListener('click', () => {
   speakersContainer.innerHTML = htmlProducts;
   more.style.display = 'flex';
   less.style.display = 'none';
-})
+});
 
 const htmlProducts = speakers.slice(0, 2).map((product) => generateSpeaker(product)).join('');
-  speakersContainer.innerHTML = htmlProducts;
+speakersContainer.innerHTML = htmlProducts;
 
 if (window.screen.width >= 768) {
   const htmlProducts = speakers.map((product) => generateSpeaker(product)).join('');

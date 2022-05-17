@@ -22,7 +22,7 @@ body {
 .main-page {
   background-image: repeating-linear-gradient(rgba(255, 255, 255, 0.979), rgba(255, 255, 255, 0.733)), url('img/robot-background.jpg');
   background-size: 100%;
-  height:100%;
+  height: 100%;
   padding: 2rem;
 }
 
@@ -32,49 +32,49 @@ body {
   margin-bottom: 4rem;
 }
 
-.main-page h2{
+.main-page h1 {
   color: #ec5242;
   font-size: 2rem;
   font-weight: 300;
   line-height: 2rem;
-  padding-bottom: 2rem;                                
+  padding-bottom: 2rem;
 }
 
-.main-page h1{
+.main-page h2 {
   color: hsl(6, 82%, 59%);
   font-family: 'COCOGOOSE', sans-serif;
   line-height: 2.8rem;
-  font-size: 2.3rem;                             
+  font-size: 2.3rem;
 }
 
 .description-container {
-  background-color:rgb(247,247,247);
+  background-color: rgb(247, 247, 247);
   margin-top: 2rem;
   border: 1px solid white;
 }
 
-.main-page p{
-  color: rgb(89,89,89);
+.main-page p {
+  color: rgb(89, 89, 89);
   line-height: 1.8rem;
   font-size: 1rem;
-  padding: 1rem;                           
+  padding: 1rem;
 }
 
-.main-page h3{
+.main-page h3 {
   font-family: 'COCOGOOSE', sans-serif;
   color: #595959;
   line-height: 2.8rem;
   font-size: 2.3rem;
-  margin-top: 2rem;                           
+  margin-top: 2rem;
 }
 
-.main-page h6{
-  color: #6D6D6D;
+.main-page h6 {
+  color: #6d6d6d;
   line-height: 2rem;
   font-size: 1.2rem;
   font-weight: 400;
   margin-top: 2rem;
-  margin-bottom: 3rem;                           
+  margin-bottom: 3rem;
 }
 
 .lecture-icon {
@@ -82,14 +82,13 @@ body {
 }
 
 .main-program {
-  background-color: rgb(40,42,51);
+  background-color: rgb(40, 42, 51);
   background-image: url("img/pattern_bg.png");
   padding: 2rem 1.5rem 2.5rem 1.5rem;
 }
 
 .line {
   border: 1px solid #ec5242;
-  margin-bottom: 2rem;
   width: 10%;
   margin: auto;
 }
@@ -107,7 +106,7 @@ body {
   justify-content: center;
   align-items: center;
   gap: 2rem;
-  background-color: rgb(60,63,69);
+  background-color: rgb(60, 63, 69);
   padding: 1rem;
 }
 
@@ -117,17 +116,17 @@ body {
   padding: 1rem;
 }
 
-.sub-container h6{
+.sub-container h6 {
   color: #ec5242;
   font-family: 'COCOGOOSE', sans-serif;
   font-size: 1.5rem;
   line-height: 2rem;
   flex-basis: 100px;
-	flex-grow: 0;
-	flex-shrink: 0;
+  flex-grow: 0;
+  flex-shrink: 0;
 }
 
-.sub-container p{
+.sub-container p {
   color: white;
   font-size: 1.2rem;
   line-height: 1.5rem;
@@ -140,7 +139,7 @@ body {
 .join-conference {
   width: 75%;
   margin: 2rem auto;
-  background-color: rgb(255,80,56);
+  background-color: rgb(255, 80, 56);
   color: white;
   padding: 2rem 3rem;
   font-size: 1.8rem;
@@ -150,7 +149,7 @@ body {
   margin: 1.5rem;
 }
 
-.featured-speakers h2{
+.featured-speakers h2 {
   text-align: center;
   margin-top: 3rem;
   margin-bottom: 1rem;
@@ -180,9 +179,9 @@ body {
 }
 
 .line-2 {
-    border: 1px solid #00000050;
-    margin-bottom: 1rem;
-    width: 10%;
+  border: 1px solid #00000050;
+  margin-bottom: 1rem;
+  width: 10%;
 }
 
 .speakers-container p {
@@ -202,55 +201,55 @@ body {
 }
 
 .lover-direction {
-  color: rgb(229,92,73);
+  color: rgb(229, 92, 73);
 }
 
 .about-page {
   background-image: repeating-linear-gradient(rgba(255, 255, 255, 0.979), rgba(255, 255, 255, 0.733)), url('img/robot-background.jpg');
   background-size: 100%;
-  height:100%;
+  height: 100%;
   padding: 2rem;
 }
 
-.about-page h2{
+.about-page h2 {
   color: #ec5242;
   font-size: 2rem;
   font-weight: 300;
   line-height: 2rem;
   padding-bottom: 2rem;
-  text-align: center;                                
+  text-align: center;
 }
 
-.about-page h1{
+.about-page h1 {
   color: hsl(6, 82%, 59%);
   font-family: 'COCOGOOSE', sans-serif;
   line-height: 2.8rem;
-  font-size: 2.3rem;                             
+  font-size: 2.3rem;
 }
 
-.about-page p{
-  color: rgb(103,103,103);
+.about-page p {
+  color: rgb(103, 103, 103);
   text-align: center;
   line-height: 1.8rem;
   font-size: 1rem;
-  padding: 1rem;                           
+  padding: 1rem;
 }
 
-.about-page h3{
-  color: rgb(116,116,116);
+.about-page h3 {
+  color: rgb(116, 116, 116);
   line-height: 2.5rem;
   font-size: 1.5rem;
   margin-top: 2rem;
-  text-align: center;                      
+  text-align: center;
 }
 
-.about-page a{
-  color: rgb(84,84,84);
+.about-page a {
+  color: rgb(84, 84, 84);
   line-height: 2rem;
   font-size: 1.2rem;
   font-weight: 400;
   margin-top: 2rem;
-  margin-bottom: 3rem;                      
+  margin-bottom: 3rem;
 }
 
 .link-container {
@@ -263,11 +262,11 @@ body {
   border: 1px solid white;
 }
 
-.past{
+.past {
   margin: 3rem;
 }
 
-.past h2{
+.past h2 {
   text-align: center;
   font-size: 2rem;
   line-height: 3rem;
@@ -275,14 +274,14 @@ body {
 }
 
 .logo-div {
-  margin: 2rem 0 3rem 0
+  margin: 2rem 0 3rem 0;
 }
 
 .logo-div img {
   width: 100%;
 }
 
-.past p{
+.past p {
   text-align: center;
   font-size: 1.3rem;
   line-height: 2rem;
@@ -292,23 +291,20 @@ body {
 
 .past-2 {
   text-align: center;
+  margin: 2rem;
 }
 
-.past-2 h2{
+.past-2 h2 {
   padding: 3rem 0 1rem 0;
 }
 
-.past-2 p{
+.past-2 p {
   padding: 1rem 0 3rem 0;
   font-size: 1.5rem;
 }
 
 .full-line {
   width: 100%;
-}
-
-.past-2 {
-  margin: 2rem;
 }
 
 .past-container {
@@ -319,24 +315,24 @@ body {
 }
 
 .past-container-1 {
-  background: linear-gradient(to right, rgba(191,82,61, 0.7), rgba(191,82,61, 0.7)), url("img/australia.jpeg");
+  background: linear-gradient(to right, rgba(191, 82, 61, 0.7), rgba(191, 82, 61, 0.7)), url("img/australia.jpeg");
   background-size: cover;
   padding: 6rem 2rem;
 }
 
 .past-container-2 {
-  background: linear-gradient(to right, rgba(191,82,61, 0.7), rgba(191,82,61, 0.7)), url("img/yaskawa.jpeg");
+  background: linear-gradient(to right, rgba(191, 82, 61, 0.7), rgba(191, 82, 61, 0.7)), url("img/yaskawa.jpeg");
   background-size: cover;
   padding: 6rem 2rem;
 }
 
-.inner h5{
+.inner h5 {
   text-align: center;
   color: rgba(255, 255, 255, 0.698);
   font-size: 4rem;
 }
 
-.inner h6{
+.inner h6 {
   text-align: center;
   color: rgba(255, 255, 255, 0.698);
   font-size: 2rem;
@@ -344,7 +340,7 @@ body {
 }
 
 .partner {
-  background-color: rgb(66,66,70);
+  background-color: rgb(66, 66, 70);
 }
 
 .partner h2 {
@@ -383,12 +379,12 @@ body {
   gap: 2rem;
 }
 
-.footer h2{
-  color: rgb(25,21,22);
+.footer h2 {
+  color: rgb(25, 21, 22);
 }
 
-.footer h3{
-  color: rgb(130,129,133);
+.footer h3 {
+  color: rgb(130, 129, 133);
   font-weight: 300;
 }
 

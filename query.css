@@ -2,6 +2,7 @@
   html {
     font-size: 85%;
   }
+
   .phone-nav {
     display: none;
   }
@@ -9,7 +10,7 @@
   .top-nav {
     display: inline-block;
     width: 100%;
-    background-color: rgb(62,62,62);
+    background-color: rgb(62, 62, 62);
     padding-right: 12rem;
   }
 
@@ -23,7 +24,7 @@
 
   .top-nav-item {
     text-decoration: none;
-    color: rgb(250,250,250)
+    color: rgb(250, 250, 250);
   }
 
   .header {
@@ -58,19 +59,18 @@
   }
 
   .campaign {
-    border: 3px solid rgb(239,71,45);
+    border: 3px solid rgb(239, 71, 45);
     padding: 0.5rem;
     margin-top: -0.7rem;
-     
   }
 
   .campaign:link,
   .campaign:visited {
-    color: rgb(243,156,142);
+    color: rgb(243, 156, 142);
   }
 
   .header-name {
-    color:rgba(0, 0, 0, 0.698);
+    color: rgba(0, 0, 0, 0.698);
     text-decoration: none;
     font-family: "Inter", sans-serif;
     font-style: normal;
@@ -110,7 +110,7 @@
     column-gap: 0.2rem;
   }
 
-  .sub-container h6{
+  .sub-container h6 {
     color: #ec5242;
     font-family: 'COCOGOOSE', sans-serif;
     font-size: 1rem;
@@ -143,7 +143,6 @@
     display: flex;
     justify-content: center;
     margin: 3rem 0 2rem 0;
-    
   }
 
   .see-whole-program a {
@@ -181,7 +180,6 @@
 
   .past {
     margin: 3rem 7rem;
-    text-align: center;
     text-align: center;
   }
 
@@ -235,5 +233,15 @@
   .wrapper {
     height: 50%;
   }
+}
 
+@media (min-width: 1200px) {
+  .main-container {
+    gap: 0.5rem;
+    margin: 3rem 10rem;
+  }
+
+  .see-whole-program {
+    margin: 5rem 0;
+  }
 }
