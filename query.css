@@ -236,6 +236,10 @@
 }
 
 @media (min-width: 1200px) {
+  html {
+    font-size: 100%;
+  }
+
   .main-container {
     gap: 0.5rem;
     margin: 3rem 10rem;
@@ -243,5 +247,9 @@
 
   .see-whole-program {
     margin: 5rem 0;
+  }
+
+  .main-page {
+    padding: 5rem 15rem;
   }
 }
