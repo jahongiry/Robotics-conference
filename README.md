@@ -49,7 +49,7 @@ Feel free to check the [issues page](https://github.com/jahongiry/Robotics-confe
 - icons pack (https://icons8.com/icon/set/ecommerce/offices)
 
 ## VIdeo about this project :
-You can watch this video to see my website and its feautures (https://www.loom.com/share/229c6049de7c48c686840b85af04d0d0)
+You can watch this video to see my website and its feautures (https://www.loom.com/share/02d93d470082428295aff87ec97836b4)
 
 ## Show your support
 
