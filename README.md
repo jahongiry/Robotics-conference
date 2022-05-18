@@ -44,8 +44,6 @@ Feel free to check the [issues page](https://github.com/jahongiry/Robotics-confe
 ## Credits
 - This website design is inspired from 'Cindy Shin' (https://www.behance.net/adagio07)
 - original design (https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
-- The picture that is used in the hero section from : (shorturl.at/jHQV7)
-- icons pack (https://icons8.com/icon/set/ecommerce/offices)
 
 ## VIdeo about this project :
 You can watch this video to see my website and its feautures (https://www.loom.com/share/02d93d470082428295aff87ec97836b4)
