@@ -41,6 +41,12 @@ Feel free to check the [issues page](https://github.com/jahongiry/Robotics-confe
 
 [Live Demo Link](https://jahongiry.github.io/Robotics-conference/)
 
+## ScreenShots of the project
+
+<img width="1792" alt="Screen Shot 2022-06-08 at 11 09 55 AM" src="https://user-images.githubusercontent.com/91022355/172545186-614794fa-caf6-4d1b-8528-790d9173a415.png">
+<img width="1792" alt="Screen Shot 2022-06-08 at 11 10 40 AM" src="https://user-images.githubusercontent.com/91022355/172545236-24f1a1a7-3908-43c7-b055-e1c2e3d1d319.png">
+<img width="1784" alt="Screen Shot 2022-06-08 at 11 12 07 AM" src="https://user-images.githubusercontent.com/91022355/172545273-fb1d52ee-9f53-48ae-a85b-a90825c6714d.png">
+
 ## Credits
 - This website design is inspired from 'Cindy Shin' (https://www.behance.net/adagio07)
 - original design (https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
